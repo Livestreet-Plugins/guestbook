@@ -1,0 +1,30 @@
+div.guestbook-message {
+    margin: 30px auto;
+    width: 650px;
+    text-align: center;
+}
+div.guestbook-message span {
+    background-color: #fbeed5;
+    border-radius: 5px 5px 5px 5px;
+    border: 1px solid #2a85a0;
+    color: #2a85a0;
+    font-size: 12pt;
+    font-weight: bold;
+    overflow: hidden;
+    padding: 10px 15px;
+    text-align: center;
+    min-height: 40px;
+    width: 625px;
+}
+.guestbook-menu {
+    padding: 15px;
+}
+.guestbook-admin label {
+    float: left;
+    width: 120px;
+    text-align: right;
+    padding-right: 5px;
+}
+.guestbook-admin input[type="text"] {
+    width: 350px;
+}
